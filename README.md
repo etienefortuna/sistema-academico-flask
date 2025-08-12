@@ -26,18 +26,6 @@ Você pode testar a aplicação diretamente através do link abaixo. **Todos os 
 
 - **URL da Aplicação Web:** [http://etieneteixeira.pythonanywhere.com/](http://etieneteixeira.pythonanywhere.com/)
 
-## Estrutura do Projeto
+## Agradecimentos
 
-A estrutura de pastas e arquivos do projeto é a seguinte:
-
-'''mysite/
-├── app.py              # Lógica principal da aplicação Flask
-├── templates/
-│   ├── index.html
-│   ├── cadastrar_aluno.html
-│   ├── cadastrar_disciplina.html
-│   ├── matricular.html
-│   ├── cadastrar_notas.html
-│   └── listar_alunos.html
-└── static/
-└── python.jpg      # Arquivo de imagem para o plano de fundo'''
+Este projeto foi desenvolvido com base em um exercício prático do curso **Programa de Residência Tecnológica em Desenvolvimento de Software – Bolsa Futuro Digital**, promovido pela Fundação de Desenvolvimento da Pesquisa - Fundep. O programa é uma ação do projeto "Conecta e Capacita" do Ministério da Ciência, Tecnologia e Inovação (MCTI). 
