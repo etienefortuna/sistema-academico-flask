@@ -1,4 +1,4 @@
-# Sistema Acadêmico com Flask
+# Sistema Acadêmico com web Flask
 
 Este é um projeto simples de um Sistema Acadêmico desenvolvido com o framework web Flask, utilizando Python. A aplicação permite o gerenciamento básico de alunos, disciplinas e notas.
 
