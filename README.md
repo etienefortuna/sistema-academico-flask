@@ -30,7 +30,7 @@ Você pode testar a aplicação diretamente através do link abaixo. **Todos os 
 
 A estrutura de pastas e arquivos do projeto é a seguinte:
 
-mysite/
+'''mysite/
 ├── app.py              # Lógica principal da aplicação Flask
 ├── templates/
 │   ├── index.html
@@ -40,4 +40,4 @@ mysite/
 │   ├── cadastrar_notas.html
 │   └── listar_alunos.html
 └── static/
-└── python.jpg      # Arquivo de imagem para o plano de fundo
+└── python.jpg      # Arquivo de imagem para o plano de fundo'''
